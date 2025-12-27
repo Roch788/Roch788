@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 👋 Hi there! I'm Rochak Jain  
+
+🔭 **I’m currently working on**  
+Frontend development using **React, Tailwind CSS, and TypeScript**, building real-world projects like a **Symptom Assessment system** and **college website**.
+
+👯 **I’m looking to collaborate on**  
+Frontend / Full-stack projects, especially in **React**, **UI/UX**, and **healthcare-based applications**.
+
+🤝 **I’m looking for help with**  
+Optimizing **DSA solutions**, improving **clean code practices**, and **backend integration**.
+
+🌱 **I’m currently learning**  
+Advanced **React patterns**, **Tailwind CSS**, **Data Structures & Algorithms**, and preparing for **internships & placements**.
+
+💬 **Ask me about**  
+React, Tailwind CSS, C++, DSA problems, debugging, or frontend layouts.
+
+⚡ **Fun fact**  
+I enjoy debugging more than writing code — it feels like solving a puzzle 🧩⚡ Fun fact
 
 
 # 💻 Tech Stack:
